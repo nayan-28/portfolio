@@ -28,6 +28,10 @@ nav {
   margin: 0 200px;
 }
 
+.profile-picture {
+  margin-top: 30px;
+}
+
 .text-primary {
   color: #fd6e0a;
 }
